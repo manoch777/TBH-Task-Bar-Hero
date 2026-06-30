@@ -42,4 +42,3 @@ Many new players prioritize every item with Attack Speed, but after a certain po
 Like many idle games, TBH rewards stacking a stat early on, then gradually shifts value toward other damage multipliers as your build progresses.
 
 Farm the highest stage you can clear in under 10 seconds; slower progression often results in l
-333333333333
