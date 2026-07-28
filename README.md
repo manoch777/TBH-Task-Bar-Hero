@@ -22,6 +22,5 @@ Like many idle games, TBH rewards stacking a stat early on, then gradually shift
 Farm the highest stage you can clear in under 10 seconds; slower progression often results i
 dfgdf |
 dfgdg
-dfgdfffff
-rtuiy
+9
 
