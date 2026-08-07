@@ -1,6 +1,4 @@
-1
 
-4
 
 * Mixed Steam reviews
 * Heavy reliance on the Steam Market according to some players
@@ -22,5 +20,3 @@ Like many idle games, TBH rewards stacking a stat early on, then gradually shift
 Farm the highest stage you can clear in under 10 seconds; slower progression often results i
 dfgdf |
 3
-6
-9
