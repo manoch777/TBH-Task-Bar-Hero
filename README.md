@@ -1,8 +1,4 @@
-
-
-* Mixed Steam reviews
-* Heavy reliance on the Steam Market according to some players
-
+dfgdfg
 ## Quick Technical Tip
 
 **Attack Speed isn't always the best stat.**
