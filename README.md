@@ -1,10 +1,4 @@
-dfgdfg
-## Quick Technical Tip
-
-**Attack Speed isn't always the best stat.**
-
-Many new players prioritize every item with Attack Speed, but after a certain point the DPS gain becomes less efficient than expected. In many builds, investing in **Critical Damage** or **Skill Damage** provides better results during mid and late-game progression.
-
+321
 **General rule:**
 
 * Early Game: Attack Speed is highly valuable.
