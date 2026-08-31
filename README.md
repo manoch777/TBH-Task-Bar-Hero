@@ -1,5 +1,4 @@
-SDFGDF 
-DRF  FGH
+14
 
 **General rule:**
 
