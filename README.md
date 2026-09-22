@@ -8,3 +8,6 @@
 Like many idle games, TBH rewards stacking a stat early on, then gradually shifts value toward othe
 
 Farm the highest stage you can clear in under 10 seconds; slower progression often results
+1
+2
+3
