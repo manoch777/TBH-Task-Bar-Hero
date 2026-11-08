@@ -11,6 +11,4 @@ Farm the highest stage you can clear in under 10 seconds; slower progression oft
 1
 2
 3
-4
-5
-6
+fgdfgdfg
